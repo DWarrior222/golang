@@ -3,6 +3,7 @@ package message
 const (
 	LoginMesType    = "loginMes"
 	LoginResMesType = "LoginResMes"
+	RegisterMesType = "registerMes"
 )
 
 type Message struct {
