@@ -115,6 +115,7 @@ func main() {
 	InsertHeroNodeByNo(head, hero2)
 	InsertHeroNodeByNo(head, hero4)
 	InsertHeroNodeByNo(head, hero1)
+	InsertHeroNodeByNo(head, hero1)
 
 	ListHreoNode(head)
 	fmt.Println("删除前..........")
