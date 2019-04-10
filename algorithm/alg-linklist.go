@@ -1,3 +1,5 @@
+// 链表 list
+// 只实现了next指针
 package main
 
 import (

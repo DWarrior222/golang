@@ -1,3 +1,5 @@
+// 环形链表
+// 只实现了next指针
 package main
 
 import (
